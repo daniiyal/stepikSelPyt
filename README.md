@@ -1,1 +1,2 @@
-# stepikSelPyt
+# stepikCourse
+
